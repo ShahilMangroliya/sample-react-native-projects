@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384236901864",
+    "project_id": "sample-by-shahil",
+    "storage_bucket": "sample-by-shahil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384236901864:android:44b860c132e1377fc3405d",
+        "android_client_info": {
+          "package_name": "com.firebasefeatures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384236901864-lcqr3rvku2qs6mdp6sisfnft25bfs091.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384236901864-lcqr3rvku2qs6mdp6sisfnft25bfs091.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
